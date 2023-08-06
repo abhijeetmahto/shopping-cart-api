@@ -1,0 +1,13 @@
+.additems{
+    /* margin-left: 50%; */
+    
+    width: 600px;
+    padding: 20px 20px;
+    border-radius: 50px;
+    box-shadow: 0px 0px 5px;
+    transform: translatex(95%);
+}
+/* .mb-3{
+    height: 700px;
+    width: 100px;
+} */

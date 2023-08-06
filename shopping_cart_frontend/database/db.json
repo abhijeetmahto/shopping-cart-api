@@ -1,0 +1,30 @@
+{
+  "merchant": [
+    {
+      "name": "QWERTY",
+      "phone": "9999999999",
+      "email": "q@gmail.com",
+      "gst": "QGST123",
+      "pwd": "1234",
+      "id": 1
+    },
+    {
+      "name": "Abhijeet Mahto",
+      "phone": "8986613652",
+      "email": "ab.abhijeet1999@gmail.com",
+      "gst": "ABHIGST1234",
+      "pwd": "abhi@123",
+      "id": 2
+    }
+  ],
+  "user": [
+    {
+      "name": "ABHI",
+      "phone": "8888888888",
+      "email": "a@gmail.com",
+      "gst": "ABHIGST123",
+      "pwd": "1234",
+      "id": 1
+    }
+  ]
+}

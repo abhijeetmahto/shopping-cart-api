@@ -1,0 +1,57 @@
+.notfound .notfound-404 h1 {
+    font-family: montserrat,sans-serif;
+    font-size: 230px;
+    margin: 0;
+    font-weight: 900;
+    /* position: absolute; */
+    /* left: 50%; */
+    /* -webkit-transform: translateX(-50%);
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%); */
+    background: url(https://colorlib.com/etc/404/colorlib-error-404-10/img/bg.jpg) no-repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: cover;
+    background-position: center;
+}
+.notfound h2 {
+    font-family: montserrat,sans-serif;
+    color: white;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-top: 20px;
+}
+.notfound p {
+    font-family: montserrat,sans-serif;
+    color: white;
+    font-size: 14px;
+    font-weight: 400;
+    margin-bottom: 20px;
+    margin-top: 0;
+}
+.notfound a {
+    font-family: montserrat,sans-serif;
+    font-size: 14px;
+    text-decoration: none;
+    text-transform: uppercase;
+    background: #0046d5;
+    display: inline-block;
+    padding: 15px 30px;
+    border-radius: 40px;
+    color: white;
+    font-weight: 700;
+    -webkit-box-shadow: 0 4px 15px -5px #0046d5;
+    box-shadow: 0 4px 15px -5px #0046d5;
+}
+#notfound {
+    position: relative;
+    height: 100vh;
+    background-color:rgba(82, 53, 53, 0.897);
+}
+#img{
+    /* background-image: url(https://media.istockphoto.com/id/1249611748/vector/rocket-space-ship-launch.jpg?s=612x612&w=0&k=20&c=DMZ7gUIzBd34YjINjw_PKoLnos6Iq3VCqK3OYA-Uzsc=); */
+    /* background-color: transparent;
+    background-blend-mode: screen; */
+    mix-blend-mode:multiply;
+}

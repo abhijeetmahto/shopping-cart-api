@@ -1,0 +1,19 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+.landing{
+    height: 250px;
+    width: 600px;
+    border: 1px solid black;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.landingpage{
+    margin: 200px 600px;
+}
+.landingpage img{
+    height: 100px;
+}

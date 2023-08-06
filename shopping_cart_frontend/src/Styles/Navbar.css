@@ -1,0 +1,56 @@
+*{
+    padding: 0%;
+    margin:0%;
+    box-sizing: border-box;
+}
+.navbar{
+    background-color: beige;
+    height: 80px;
+}
+.nav{
+    display: flex;
+    width: 100%;
+    justify-content: space-between;
+}
+.logo>img{
+    width:100px;
+    height: 60px;
+    mix-blend-mode: darken;
+}
+.logo{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.profile>img{
+    width: 60px;
+    height: 50px;
+    mix-blend-mode: darken;
+}
+.options{
+    display: flex;
+    width: 700px;
+    justify-content: space-around;
+    align-items: center;
+}
+.wishlist a{
+    color: black;
+    text-decoration: none;
+}
+.sub1{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border: 1px solid black;
+}
+.sub1 a{
+    text-decoration: none;
+    border: 1px solid black;
+    height: 100%;
+    width: 100%;
+}
+.sub1 a:hover{
+    background-color: aquamarine;
+}
